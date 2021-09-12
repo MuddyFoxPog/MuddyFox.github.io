@@ -1,1 +1,1 @@
-This website is currently in development, soon it will be complete!
+This repository for the MuddyFox website!
