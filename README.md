@@ -1,2 +1,2 @@
 # MuddyFox.github.io
-The MuddyFox website
+This website is currently in development, soon it will be complete!
